@@ -1,4 +1,4 @@
-Creates Weather App with React, Tailwind, NodeJs
+**Creates Weather App with React, Tailwind, NodeJs**
 
 Draws weather data from OpenWeather API 
 
