@@ -2,7 +2,7 @@
 
 Draws weather data from OpenWeather API 
 
-### `npm start`
+'npm start'
 
 Runs the app in the development mode.
 
